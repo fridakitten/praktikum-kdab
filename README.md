@@ -6,3 +6,4 @@
 3. [Dritter Bericht](3.md)
 4. [Vierter Bericht](4.md)
 5. [Fünfter Bericht](5.md)
+6. [Sechster Bericht](6.md)
